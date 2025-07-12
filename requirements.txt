@@ -10,3 +10,6 @@ chromadb
 numpy==1.26.4
 faiss-cpu
 langchain_chroma
+langchain-openai
+streamlit
+langchain_core
